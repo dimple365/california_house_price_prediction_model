@@ -11,7 +11,7 @@ col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
 st.title('California Housing Price Prediction')
 
-st.image('https://media.licdn.com/dms/image/v2/D5612AQFQjwR-QMUDiQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1690529202315?e=2147483647&v=beta&t=vJQ8mY0Ss18pPJXS0lwLflRIIkgmYF1vvN_fBWL_00Q')
+st.image('https://www.propertyreporter.co.uk/images/660x350/16402-shutterstock_538341163.jpg')
 
 
 
